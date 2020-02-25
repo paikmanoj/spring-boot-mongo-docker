@@ -12,7 +12,7 @@ spec:
         name: springboot
     spec:
       containers:
-      - image: chaitanyapratap/spring-boot-mongo
+      - image: paikmanoj/spring-boot-mongo
         name: springboot
         ports:
         - name: springboot
